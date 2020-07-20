@@ -10,5 +10,6 @@
 - Grafikler için tarih aralığı ve yenileme süresi girilmesi için setting ekranı yaptım. Oradan girilen 
 değerler localstorage'da tutuluyor. Service ile bağlandıktan sonra grafiklerin olduğu ekrandan ulaşılarak düzenlenebilir.
 - Bootstrap kullandım.
+- Farklı ekranlar için responsive olmasını sağladım.
 
 'ng serve' komutu ile çalıştırdıktan sonra http://localhost:4200/ url ile yönlendirme yapabilirsiniz.
