@@ -1,0 +1,39 @@
+<div>
+
+    <form class="text-center m-5" (ngSubmit)="save()" #formControl="ngForm">
+      <div class="card">
+        <div class="card-header">
+          Chart Settings
+        </div>
+        <div class="card-body">
+          <div class="col-md-3">
+            <label for="refreshTime" class="float-left">Refresh Time</label>
+            <input type="refreshTime"
+                   class="form-control"
+                   name="refreshTime"
+                   id="refreshTime"
+                   [(ngModel)]="refreshTime"
+                   aria-describedby="refreshTime"
+                   placeholder="Enter refresh time">
+          </div>
+  
+          <div class="col-md-3 mt-3">
+            <label for="timeFrame" class="float-left">Time Frame</label>
+            <input type="text"
+                   id="timeFrame"
+                   name="timeFrame"
+                   placeholder="Choose time frame"
+                   class="form-control"
+                   [(ngModel)]="timeFrameArray"
+                   bsDaterangepicker>
+          </div>
+        </div>
+        <div class="card-footer">
+          <button type="submit" class="btn btn-primary float-right">Kaydet</button>
+        </div>
+  
+      </div>
+    </form>
+  
+  </div>
+  
