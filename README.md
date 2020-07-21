@@ -13,3 +13,5 @@ değerler localstorage'da tutuluyor. Service ile bağlandıktan sonra grafikleri
 - Farklı ekranlar için responsive olmasını sağladım.
 
 'ng serve' komutu ile çalıştırdıktan sonra http://localhost:4200/ url ile yönlendirme yapabilirsiniz.
+
+![alt text](https://github.com/ufkunl/Stack/blob/master/Group%209.png?raw=true)
