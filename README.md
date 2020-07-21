@@ -14,4 +14,13 @@ değerler localstorage'da tutuluyor. Service ile bağlandıktan sonra grafikleri
 
 'ng serve' komutu ile çalıştırdıktan sonra http://localhost:4200/ url ile yönlendirme yapabilirsiniz.
 
-![alt text](https://github.com/ufkunl/Stack/blob/master/Group%209.png?raw=true)
+![alt text](https://github.com/ufkunl/sidebar-dashboard/blob/master/Screenshot_13.png?raw=true)
+
+
+![alt text](https://github.com/ufkunl/sidebar-dashboard/blob/master/Screenshot_14.png?raw=true)
+
+
+![alt text](https://github.com/ufkunl/sidebar-dashboard/blob/master/Screenshot_15.png?raw=true)
+
+
+![alt text](https://github.com/ufkunl/sidebar-dashboard/blob/master/Screenshot_16.png?raw=true)
